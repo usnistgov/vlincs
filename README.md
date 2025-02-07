@@ -1,2 +1,2 @@
 # VLINCS
-VLINCS Scores and Jobs
+VLINCS Scores and Jobs, hosts leaderboard
